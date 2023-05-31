@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Android-Geofence.iml" filepath="$PROJECT_DIR$/.idea/modules/Android-Geofence.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Geofencelib/Android-Geofence.Geofencelib.iml" filepath="$PROJECT_DIR$/.idea/modules/Geofencelib/Android-Geofence.Geofencelib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Geofencelib/Android-Geofence.Geofencelib.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/Geofencelib/Android-Geofence.Geofencelib.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Geofencelib/Android-Geofence.Geofencelib.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Geofencelib/Android-Geofence.Geofencelib.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Geofencelib/Android-Geofence.Geofencelib.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/Geofencelib/Android-Geofence.Geofencelib.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Android-Geofence.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Android-Geofence.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Android-Geofence.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Android-Geofence.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Android-Geofence.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Android-Geofence.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Android-Geofence.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Android-Geofence.app.unitTest.iml" />
+    </modules>
+  </component>
+</project>
